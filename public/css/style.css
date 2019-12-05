@@ -73,7 +73,7 @@ h1 {
   margin-top: 30px;
 }
 
-#chart {
+.chart {
   margin-bottom: 10px;
 }
 
@@ -150,7 +150,7 @@ h1 {
     flex-direction: row;
   }
   
-  #chart {
+  .chart {
     width: 80%;
     margin-right: 40px;
   }
