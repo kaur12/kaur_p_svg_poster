@@ -2,7 +2,7 @@
  
 A responsive one-page application shows interactive poster of use of social media.
 
-Description
+DESCRIPTION
 
 The premise of this task is to take complex data – measurements, inquire about outcomes, information examination, structures, outlines, investigation, and so on., – and present it in the most productive and effectively saw way that could be available.
 
@@ -10,7 +10,7 @@ This poster represents the information about the use of social media by differen
 
 cd git clone and watch it! 
 
-Dependencies
+DEPENDENCIES
 
 HTML5
 CSS3
@@ -21,18 +21,21 @@ Express
 Installing
 
 
-Author
+AUTHOR
 
 Prabhjot Kaur
 License
 
 MIT
 
-Acknowledgments
+ACKNOWLEDGMENTS
 
 awesome-readme
 
 README Formatting
+
 Meyerweb CSS Reset
+
 MySQL Connection Pooling
+
 Trevor Van Rys
